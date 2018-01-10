@@ -1,2 +1,2 @@
 # Dismiss Server Nag
-Dismiss coming soon dashboard "<strong>Server Happy</strong>" nag, when is activated, or automatically, if it is in mu-plugins directory.
+Dismiss coming soon "<strong>Server Happy</strong>" nag, dashboard widget, when is activated, or automatically, if it is in mu-plugins directory.
